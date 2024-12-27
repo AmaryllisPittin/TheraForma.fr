@@ -1,0 +1,185 @@
+[
+    {
+        "title": "THERA EN LIGNE A1 (AUDIO) - Renforcer l’Estime de Soi",
+        "title2": "Retrouvez confiance en vous grâce à des outils pratiques et des exercices personnalisés.",
+        "presentation1": "lorem ipsum",
+        "price": {
+            "montant": 30,
+            "devise": "EUR"
+        }
+    },
+    {
+            "title": "THERA EN LIGNE A2 (AUDIO) - Techniques de Relaxation et Méditation",
+            "presentation1": "lorem ipsum",
+            "price": {
+                "montant": 30,
+                "devise": "EUR"
+            }
+    },
+    {
+        "title": "THERA EN LIGNE A3 - Dépasser l’Anxiété au Quotidien",
+        "title2": "Des stratégies efficaces pour réduire le stress et reprendre le contrôle.",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "price": {
+            "montant": 55,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE A4 - Pleine Conscience pour Débutants",
+        "title2": "Initiez-vous aux bases de la mindfulness pour vivre pleinement l’instant présent.",
+        "presentation1": "lorem ipsum",
+        "price": {
+            "montant": 55,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE A5 - Cultiver la Résilience Psychologique",
+        "title2": "Renforcez vos ressources internes pour mieux surmonter les défis de la vie.",
+        "presentation1": "lorem ipsum",
+        "price": {
+            "montant": 55,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE A6 - Développer l’Intelligence Émotionnelle",
+        "title2": "Maîtrisez vos émotions et améliorez vos relations personnelles et professionnelles.",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "presentation3": "lorem ipsum",
+        "price": {
+            "montant": 55,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE A7 - Les Clés de la Communication Non Violente",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "presentation3": "lorem ipsum",
+        "price": {
+            "montant": 55,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE A8 - Motivation et Changements Positifs",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "price": {
+            "montant": 55,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE A9 - Thérapie cognitive essentielle",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "price": {
+            "montant": 55,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA A10 - Approche Holistique de la Thérapie",
+        "presentation1": " ",
+        "presentation2": " ",
+        "price": {
+            "montant": " ",
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE B1 - Introduction à la Gestalt-Thérapie",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "price": {
+            "montant": 80,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE B2 - gestion des émotions",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "price": {
+            "montant": 80,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE B3 - Techniques Psychocorporelles pour le Bien-Être",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "price": {
+            "montant": 80,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE B4 - Thérapie Somatique : Corps et Esprit",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "price": {
+            "montant": 80,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE B5 - L’Art du Toucher Thérapeutique",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "price": {
+            "montant": 80,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE B6 - Gestion du Stress par la Respiration",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "price": {
+            "montant": 80,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE B7 - Apprivoiser les Traumatismes avec le Corps",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "price": {
+            "montant": 80,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE B8 - Comprendre les Besoins Fondamentaux",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "price": {
+            "montant": 80,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA EN LIGNE B9 - Initiation à la psychothérapie",
+        "presentation1": "lorem ipsum",
+        "presentation2": "lorem ipsum",
+        "price": {
+            "montant": 80,
+            "devise": "EUR"
+        }
+    },
+    {
+        "title": "THERA B10 - Atelier de groupe",
+        "presentation1": " ",
+        "presentation2": " ",
+        "price": {
+            "montant": " ",
+            "devise": "EUR"
+        }
+    }
+]

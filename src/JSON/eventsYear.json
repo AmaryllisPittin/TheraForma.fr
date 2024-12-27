@@ -1,0 +1,69 @@
+[
+    {
+      "category": "Thérapies de groupe - TheraForma le lieu-dit",
+      "events": [
+        {
+          "id": 1,
+          "date": "2025-03-16"
+        },
+        {
+            "id": 2,
+            "date": "2025-05-13"
+          },
+          {
+            "id": 3,
+            "date": "2025-07-15"
+          },
+          {
+            "id": 4,
+            "date": "2025-11-12"
+          },
+          {
+            "id": 5,
+            "date": "2025-01-14"
+          }
+      ]
+    },
+    {
+        "category": "Thérapies de groupe - TheraForma Lille",
+        "events": [
+
+        ]
+      },
+      {
+        "category": "Thérapies de groupe - TheraForma Nîmes",
+        "events": [
+
+        ]
+      },
+    {
+      "category": "Thérapies de groupe - TheraForma Grenoble",
+      "events": [
+        {
+          "id": 6,
+          "date": "2025-02-19"
+        },
+        {
+            "id": 7,
+            "date": "2025-04-23"
+          },
+          {
+            "id": 8,
+            "date": "2025-06-25"
+          },
+          {
+            "id": 9,
+            "date": "2025-10-28"
+          },
+          {
+            "id": 10,
+            "date": "2025-11-16 - 2025-11-18"
+          },
+          {
+            "id": 11,
+            "date": "2025-12-12"
+          }
+      ]
+    }
+  ]
+  
