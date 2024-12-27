@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "imagePath": "../img/ellelNimes.jpg",
+      "title": "TheraForma Sud Nîmes",
+      "responsibles": "Jean et Diana Meunier",
+      "email": "nimes@theraforma.fr",
+      "tel": "00 00 00 00 00",
+      "address": "30700 Nîmes"
+    },
+    {
+      "id": 2,
+      "imagePath": "../img/ellelLille.jpg",
+      "title": "TheraForma Lille",
+      "responsibles": "Joe et Marie Delmar",
+      "email": "lille@ellel.fr",
+      "tel": "00 00 00 00 00",
+      "addresses": [
+        "32 rue de lorem ipsum",
+        "480 rue Lorem ipsum - Centre en Psychologie"
+      ],
+      "accomodation": {
+        "info": "Il est possible de réserver les repas, cependant il n'y a pas d'hébergement disponible à TheraForma Lille."
+      }
+    },
+    {
+      "id": 3,
+      "imagePath": "../img/ellelStLo.jpg",
+      "title": "TheraForma Grenoble",
+      "description": "TheraForma est présent en France depuis 2006 à Grenoble...",
+      "responsibles": "Pierre et Martine Chaume",
+      "email": "contact@theraforma.fr",
+      "tel": "00 00 00 00 00",
+      "address": "Site 'Centre de Thérapie' 8 avenue lorem ipsum 37350, Grenoble",
+      "accomodation": {
+        "name": "Centre de Thérapie - Ryan et Sandrine Martin",
+        "email": "accueil@theraforma.fr",
+        "tel": "00 00 00 00 00"
+      },
+      "parking": "Entrée du coté Avenue lorem ipsum (parking gratuit)",
+      "gps": {
+        "latitude": 45.3875811,
+        "longitude": 5.7348810
+      },
+      "localisation": "à 25 min. des sorties d'autoroutes lorem ipsum...",
+      "train": "gare SNCF à VOIRON, puis ligne de Bus lorem ipsum..."
+    },
+    {
+      "id": 4,
+      "title": "TheraForma Marseille - Le lieu-dit",
+      "responsibles": "Charlie & Valérie Lallier",
+      "email": "lelieudit@theraforma.fr",
+      "tel": "00 00 00 00 00",
+      "address": "Le lieu-dit, 04730 lorem ipsum"
+    }
+  ]
+  
