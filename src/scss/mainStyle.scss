@@ -1,0 +1,372 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+    background-color:#2c473c;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.navbar-list {
+    list-style-type: none;
+  }
+  
+  .navbar-link {
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 500;
+    color:white;
+}
+  
+  .dropdown-content {
+    background-color: #2c473c;
+  }
+  
+  .dropdown-content li {
+    list-style-type: none;
+  }
+  
+  .dropdown-content a {
+    color: white;
+    text-decoration: none;
+    text-align: left;
+  }
+
+  .banner {
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    &__h1 {
+      color:#2c473c;
+      font-size: 80px;
+    }
+  }
+
+  .logo-span,
+  .h1-span {
+    background-color: white;
+    opacity: 0.5;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  }
+
+  .aside {
+    background-color:#2c473c;
+    position:fixed;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    border-radius: 0 1px 1px 0;
+    &__h1 {
+      color:white;
+      font-weight: 600;
+      font-size:25px;
+    }
+    &__h2 {
+      color:white;
+      font-weight: 500;
+      font-size:20px;
+    }
+    &__link {
+    color: #6cb698;
+    text-decoration: none;
+    font-size: 13px;
+    }
+    &__link:hover {
+      text-decoration: underline;
+    }
+}
+
+.network {
+  background-color:#2c473c;
+  position:fixed;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  border-radius: 0 1px 1px 0;
+  &__link {
+    color:white;
+    transition: color 0.3s ease;
+  }
+  &__link:hover {
+    color:#6cb698
+  }
+}
+
+.card {
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  text-align: center;
+}
+
+.form-aside {
+  &__label {
+    color: white;
+  }
+  &__send {
+    background-color: #2c473c;
+    border: solid 2px #6cb698;
+    color: #6cb698;
+    transition: background-color 0.3s ease;
+    font-weight: 500;
+  }
+  &__send:hover {
+    background-color: #6cb698;
+    color:#2c473c;
+    cursor:pointer;
+  }
+}
+
+.verse {
+  background-color: #2c473c;
+  &__h1 {
+    color:white;
+    font-style:italic;
+  }
+}
+
+.vision-ellel {
+  background-color: #2c473c;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  &__h1 {
+    color:#6cb698;
+    font-size:30px;
+  }
+  &__h2 {
+    color:#6cb698;
+      font-size:28px;
+      margin-top:50px; 
+      margin-bottom:50px;
+  }
+  &__h3 {
+    color:#6cb698;
+      font-size:24px;
+      margin-bottom:30px;
+  }
+  &__text {
+    color:#6cb698;
+    text-align: justify;
+    font-size:20px;
+  }
+}
+
+.library-category {
+  color:#2c473c;
+  font-size:28px;
+
+}
+
+.vision-ellel-verses__verse {
+    font-size: 20px;
+    color: #6cb698;
+    text-align: justify;
+}
+
+.footer {
+  background-color: #2c473c;
+  color:white;
+}
+
+.discover,
+.credo {
+  background-color: white;
+  &__h1 {
+    color:#2c473c;
+    font-size:30px;
+  }
+  &__h2 {
+    color:#2c473c;
+    font-size:25px;
+  }
+}
+
+.calendar-container__h2,
+.ellel-explore__h1,
+.inscription__h1 {
+  color:#2c473c;
+    font-size:30px;
+}
+
+.ellel-year__h1 {
+  color:#2c473c;
+  font-size:25px;
+}
+
+.inscription h2 {
+  color:#2c473c;
+  font-size:30px;
+}
+
+.inscription h3 {
+  color:#2c473c;
+  font-size:20px;
+}
+
+.credo__text {
+    font-size: 20px;
+}
+
+.button-credo-container {
+  &__text {
+      font-size:20px;
+  }
+}
+
+.index-actualities {
+  background-color: #2c473c; 
+  &__h1 {
+    color:white;
+    font-size: 40px;
+  }
+}
+
+.events-list {
+  background-color: #2c473c;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  &__h1-container {
+    color:#6cb698;
+    font-size:30px;
+  }
+}
+
+.vision-ellel__title {
+  color:#6cb698;
+    font-size:20px;
+}
+
+.ellel-france-places__h1,
+.ellel-no-france-places__h1 {
+  color:#2c473c;
+  font-size:30px;
+}
+
+.event-card {
+  border: 1px solid #6cb698;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.places-card,
+.rbc-calendar {
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  color:#2c473c;
+} 
+
+.rbc-btn-group,
+.rbc-off-range,
+.rbc-show-more {
+  color:#2c473c;
+}
+
+.explore__card {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.explore__card:hover {
+  transform: translateY(-5px);
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 10px 20px;
+}
+
+.rbc-event.rbc-selected, .rbc-day-slot .rbc-selected.rbc-background-event {
+  background-color:#6cb698;
+}
+
+.rbc-event, .rbc-day-slot .rbc-background-event {
+  background-color:#2c473c;
+}
+
+.rbc-today {
+  background-color: #b8e2d1;
+}
+
+.event-card__content {
+  text-align: left;
+  color:#6cb698;
+}
+
+.event-card__content h3 {
+  font-size: 1.5em;
+}
+
+.cover {
+  cursor:pointer;
+}
+
+.cover {
+  cursor: pointer;
+}
+
+.icon-overlay {
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.6);
+  transition: background-color 0.3s ease;
+}
+
+.icon-overlay:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.fa-play {
+  font-size:25px;
+}
+
+.quick-formation {
+  background-color: #2c473c;
+}
+
+.button {
+  text-decoration: none;
+  background-color: #2c473c;
+  border: solid 2px #6cb698;
+  color: #6cb698;
+  transition: background-color 0.3s ease;
+  font-weight: 500;
+}
+
+.button:hover {
+    background-color: #6cb698;
+    color:#2c473c;
+    cursor:pointer;
+}
+
+.copyright {
+  font-size:13px;
+}
+
+.contact-link {
+  color: #6cb698;
+    text-decoration: none;
+}
+
+.contact-link:hover {
+  text-decoration-line:underline;
+}
+
+.explore-container h2,
+.explore__card {
+  color:#2c473c;
+}
+.modal-overlay {
+  background: rgba(0, 0, 0, 0.5); 
+}
+
+.modal-content {
+  background: #fff;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: justify;
+}
+
+.modal-buttons button {
+    background-color: #2c473c;
+    border: solid 2px #6cb698;
+    color: #6cb698;
+    transition: background-color 0.3s ease;
+    font-weight: 500;
+}
+
+.modal-buttons button:hover {
+  background-color: #6cb698;
+  color:#2c473c;
+  cursor:pointer;
+}
+
+.inscription {
+  text-align: justify;
+}
+
+.card {
+  cursor:pointer;
+}

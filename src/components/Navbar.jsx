@@ -20,9 +20,9 @@ const Navbar = () => {
                 Qui sommes-nous ?
             </span>
             <ul className={`dropdown-content ${isDropdownOpen ? 'show' : ''}`}>
-                <li><NavLink className="navbar-link" to="/vision-ellel-ministries">La vision de TheraForma</NavLink></li>
-                <li><NavLink className="navbar-link" to="/ellel-france">TheraForma France</NavLink></li>
-                <li><NavLink className="navbar-link" to="/ellel-international">TheraForma International</NavLink></li>
+                <li><NavLink className="navbar-link" to="/vision-theraforma">La vision de TheraForma</NavLink></li>
+                <li><NavLink className="navbar-link" to="/theraforma-france">TheraForma France</NavLink></li>
+                <li><NavLink className="navbar-link" to="/theraforma-international">TheraForma International</NavLink></li>
             </ul>
             </li>
         </ul>

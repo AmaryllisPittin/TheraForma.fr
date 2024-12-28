@@ -4,6 +4,10 @@
         "titre": "Les labyrinthes de l'esprit",
         "auteur": "Clara Sorel",
         "categorie": "Exploration de l'inconscient",
+        "price": {
+            "montant": 13,
+            "devise": "EUR"
+        },
         "description": "Une plongée fascinante dans l'inconscient humain, explorant les rêves, les pensées refoulées et les mécanismes de défense qui façonnent nos comportements au quotidien."
     },
     {
@@ -11,6 +15,10 @@
         "titre": "L'art de la sérénité",
         "auteur": "Victor Harmonie",
         "categorie": "Gestion du stress et pleine conscience",
+        "price": {
+            "montant": 13,
+            "devise": "EUR"
+        },
         "description": "Ce livre vous guide dans l'apprentissage de techniques éprouvées pour cultiver la sérénité, gérer le stress et vivre pleinement le moment présent grâce à la méditation et la pleine conscience."
     },
     {
@@ -18,60 +26,109 @@
         "titre": "L'ego sous la loupe",
         "auteur": "Camille Petit",
         "categorie": "Développement personnel et psychologie sociale",
+        "price": {
+            "montant": 13,
+            "devise": "EUR"
+        },
         "description": "Découvrez les subtilités de l'ego : comment il se construit, son impact sur nos relations, et comment le maîtriser pour atteindre un équilibre intérieur."
     },
     {
+        "id": 4,
         "titre": "La mémoire émotionnelle",
         "auteur": "Sophie Delage",
         "categorie": "Neuropsychologie et émotions",
+        "price": {
+            "montant": 13,
+            "devise": "EUR"
+        },
         "description": "Explorez comment nos souvenirs émotionnels façonnent notre identité et influencent nos décisions, avec des outils pour transformer les expériences négatives en leviers de croissance."
     },
     {
+        "id": 5,
         "titre": "Les voix du silence",
         "auteur": "Julien Marin",
         "categorie": "Traumatismes et résilience",
+        "price": {
+            "montant": 13,
+            "devise": "EUR"
+        },
         "description": "Un ouvrage dédié à ceux qui portent des blessures invisibles. Apprenez à écouter vos silences intérieurs et à transformer les traumas en sources de force et de sagesse."
     },
     {
+        "id": 6,
         "titre": "Le paradoxe de la perfection",
         "auteur": "Anaïs Berger",
         "categorie": "Psychologie du perfectionnisme",
+        "price": {
+            "montant": 13,
+            "devise": "EUR"
+        },
         "description": "Une exploration des origines du perfectionnisme, ses impacts sur notre bien-être et des stratégies pour sortir du piège de la quête incessante de l'excellence."
     },
     {
+        "id": 7,
         "titre": "L'équilibre des polarités",
         "auteur": "Pauline Équilibre",
         "categorie": "Psychologie des relations",
+        "price": {
+            "montant": 13,
+            "devise": "EUR"
+        },
         "description": "Comprenez les dynamiques entre les contraires dans vos relations et découvrez comment harmoniser vos besoins opposés pour vivre des interactions plus épanouies."
     },
     {
+        "id": 8,
         "titre": "La science du bonheur",
         "auteur": "Lucas Joyeux",
         "categorie": "Psychologie positive",
+        "price": {
+            "montant": 13,
+            "devise": "EUR"
+        },
         "description": "Ce livre explore les fondements scientifiques du bonheur, proposant des exercices pratiques pour cultiver la joie, la gratitude et un état d'esprit optimiste."
     },
     {
+        "id": 9,
         "titre": "Les racines de la peur",
         "auteur": "Claire Audace",
         "categorie": "Psychologie des émotions",
+        "price": {
+            "montant": 13,
+            "devise": "EUR"
+        },
         "description": "Une analyse approfondie de la peur : ses origines, son rôle protecteur, et les méthodes pour l'apprivoiser afin qu'elle ne soit plus un obstacle à votre épanouissement."
     },
     {
+        "id": 10,
         "titre": "Les mythes de la personnalité",
         "auteur": "Nicolas Charpentier",
         "categorie": "Psychologie de la personnalité",
+        "price": {
+            "montant": 13,
+            "devise": "EUR"
+        },
         "description": "Démystifiez les tests de personnalité, découvrez comment nos traits évoluent avec le temps, et apprenez à tirer parti de vos forces uniques pour atteindre vos objectifs."
     },
     {
+        "id": 11,
         "titre": "Les clés de l'empathie",
         "auteur": "Emilie Coeurclair",
         "categorie": "Psychologie sociale",
+        "price": {
+            "montant": 13,
+            "devise": "EUR"
+        },
         "description": "Développez votre empathie grâce à des techniques pratiques et une meilleure compréhension des mécanismes qui sous-tendent les relations humaines."
     },
     {
+        "id": 12,
         "titre": "Les zones d'ombre du cerveau",
         "auteur": "Dr. Thomas Noir",
         "categorie": "Neurosciences et comportement",
+        "price": {
+            "montant": 13,
+            "devise": "EUR"
+        },
         "description": "Un voyage captivant dans les parties moins connues du cerveau humain, explorant comment elles influencent nos décisions et nos instincts."
     }
 ]
