@@ -20,21 +20,21 @@ const VisionTheraForma = () => {
       </div>
       <Aside />
       <Network />
-      <section className='vision-ellel'>
-        <div className='vision-ellel__h1'>
+      <section className='vision-theraforma'>
+        <div className='vision-theraforma__h1'>
           <h1>La vision de TheraForma</h1>
         </div>
-        <p className='vision-ellel__text'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat id porro dolore delectus numquam non aut nesciunt et, similique beatae magnam voluptatem tempore ducimus? Quas beatae dolorem maiores totam quaerat.</p>
-        <h2 className='vision-ellel__h2'>Notre mission</h2>
-        <p className='vision-ellel__text'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat maiores animi earum voluptatibus quia. Totam quis consequuntur saepe voluptatibus voluptates sed corporis nemo enim porro cumque accusamus, molestiae, et possimus.</p>
-           <p className='vision-ellel__text'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio reiciendis odit ab! Explicabo, enim corrupti! Eveniet, optio fugit aperiam itaque maiores iure cum ex laboriosam explicabo suscipit doloremque ducimus qui.</p>
+        <p className='vision-theraforma__text'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat id porro dolore delectus numquam non aut nesciunt et, similique beatae magnam voluptatem tempore ducimus? Quas beatae dolorem maiores totam quaerat.</p>
+        <h2 className='vision-theraforma__h2'>Notre mission</h2>
+        <p className='vision-theraforma__text'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat maiores animi earum voluptatibus quia. Totam quis consequuntur saepe voluptatibus voluptates sed corporis nemo enim porro cumque accusamus, molestiae, et possimus.</p>
+           <p className='vision-theraforma__text'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio reiciendis odit ab! Explicabo, enim corrupti! Eveniet, optio fugit aperiam itaque maiores iure cum ex laboriosam explicabo suscipit doloremque ducimus qui.</p>
           <div>
-            <div className='vision-ellel-verses'>
-            <h3 className='vision-ellel__h3'>Notre mission est fondée sur: </h3>
-              <p className='vision-ellel-verses__verse'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur error nulla minima ratione architecto at sed id suscipit iste aspernatur dignissimos harum, vitae voluptatum, eveniet sit aperiam, debitis doloremque voluptates.</p>
-              <p className='vision-ellel-verses__verse'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui excepturi quasi eum saepe expedita eligendi? Ipsa, eveniet? Tempore nobis laudantium itaque sequi nisi distinctio quis sint rem, corrupti velit tempora.</p>
-              <p className='vision-ellel-verses__verse'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita atque voluptatibus numquam iste aliquid, eaque odit mollitia eligendi nostrum exercitationem. Vel et facilis quae. Optio temporibus eaque laborum dolorem perferendis!</p>
-              <p className='vision-ellel-verses__verse'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint earum ex veritatis voluptate eligendi minima maiores necessitatibus. Quae nulla, eos, quasi error ipsa nemo dignissimos voluptas fugit consequatur excepturi placeat.</p>
+            <div className='vision-theraforma-verses'>
+            <h3 className='vision-theraforma__h3'>Notre mission est fondée sur: </h3>
+              <p className='vision-theraforma-verses__verse'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur error nulla minima ratione architecto at sed id suscipit iste aspernatur dignissimos harum, vitae voluptatum, eveniet sit aperiam, debitis doloremque voluptates.</p>
+              <p className='vision-theraforma-verses__verse'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui excepturi quasi eum saepe expedita eligendi? Ipsa, eveniet? Tempore nobis laudantium itaque sequi nisi distinctio quis sint rem, corrupti velit tempora.</p>
+              <p className='vision-theraforma-verses__verse'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita atque voluptatibus numquam iste aliquid, eaque odit mollitia eligendi nostrum exercitationem. Vel et facilis quae. Optio temporibus eaque laborum dolorem perferendis!</p>
+              <p className='vision-theraforma-verses__verse'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint earum ex veritatis voluptate eligendi minima maiores necessitatibus. Quae nulla, eos, quasi error ipsa nemo dignissimos voluptas fugit consequatur excepturi placeat.</p>
               <p className='vision-ellel-verses__verse'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam error repellendus magnam recusandae nobis repudiandae deleniti, vel consectetur quam dolorem doloremque, atque quisquam reprehenderit dolore laboriosam! Itaque debitis ratione provident!</p>
               <p className='vision-ellel-verses__verse'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et a quos eius expedita fugit corrupti, iure dolorum neque error, sapiente non fuga ut vel repellendus veritatis quidem cupiditate! Eligendi, fugit.</p>
             </div>
