@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import ExploreModal from '../components/ExploreModal';
+import TheraModal from '../components/TheraModal';
 import eventData from '../JSON/formations.json';
 
 const Thera = () => {
@@ -43,7 +43,7 @@ const Thera = () => {
         </div>
       </section>
       <Footer />
-      <ExploreModal 
+      <TheraModal 
         isOpen={isModalOpen} 
         onClose={closeModal} 
         event={selectedEvent} 

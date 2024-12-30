@@ -117,7 +117,7 @@
   }
 }
 
-.vision-ellel {
+.vision-theraforma {
   background-color: #2c473c;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
   &__h1 {
@@ -148,7 +148,7 @@
 
 }
 
-.vision-ellel-verses__verse {
+.vision-theraforma-verses__verse {
     font-size: 20px;
     color: #6cb698;
     text-align: justify;
@@ -173,13 +173,13 @@
 }
 
 .calendar-container__h2,
-.ellel-explore__h1,
+.theraforma-thera__h1,
 .inscription__h1 {
   color:#2c473c;
     font-size:30px;
 }
 
-.ellel-year__h1 {
+.theraforma-year__h1 {
   color:#2c473c;
   font-size:25px;
 }
@@ -221,13 +221,13 @@
   }
 }
 
-.vision-ellel__title {
+.vision-theraforma__title {
   color:#6cb698;
     font-size:20px;
 }
 
-.ellel-france-places__h1,
-.ellel-no-france-places__h1 {
+.theraforma-france-places__h1,
+.theraforma-no-france-places__h1 {
   color:#2c473c;
   font-size:30px;
 }
@@ -249,13 +249,13 @@
   color:#2c473c;
 }
 
-.explore__card {
+.thera__card {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   cursor: pointer;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.explore__card:hover {
+.thera__card:hover {
   transform: translateY(-5px);
   box-shadow: rgba(0, 0, 0, 0.5) 0px 10px 20px;
 }
@@ -335,8 +335,8 @@
   text-decoration-line:underline;
 }
 
-.explore-container h2,
-.explore__card {
+.thera-container h2,
+.thera__card {
   color:#2c473c;
 }
 .modal-overlay {
