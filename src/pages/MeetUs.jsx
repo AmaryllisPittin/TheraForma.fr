@@ -6,6 +6,7 @@ import Network from '../components/Network';
 import CardsContainer from '../components/FranceCenterList';
 import franceData from '../JSON/francePlaces.json';
 import internationalData from '../JSON/internationalPlaces.json';
+import FranceCenterList from '../components/FranceCenterList';
 
 const MeetUs = () => {
   return (
@@ -18,13 +19,13 @@ const MeetUs = () => {
           <h1>Les centres en France</h1>
         </div>
         <div className='theraforma-france-places-container'>
-          <CardsContainer data={franceData} />
+          <FranceCenterList data={franceData} />
         </div>
         <div className='theraforma-no-france-container'>
           <div className='theraforma-no-france-places__h1'>
             <h1>Les centres hors France (francophone)</h1>
           </div>
-          <CardsContainer data={internationalData} />
+          <FranceCenterList data={internationalData} />
         </div>
       </section>
       <Footer />

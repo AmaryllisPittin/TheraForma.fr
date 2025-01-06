@@ -1,12 +1,11 @@
 import React from 'react';
-import { NavLink } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import bannerEllelFrance from "../img/bannerEllelFrance.png";
 import logo from "../img/logo.png";
 import Aside from "../components/Aside";
 import Footer from "../components/Footer";
 import Network from '../components/Network';
-import CardsContainer from '../components/FranceCenterList';
+import FranceCenterList from '../components/FranceCenterList';
 
 const TheraFormaFrance = () => {
   return (
@@ -29,7 +28,7 @@ const TheraFormaFrance = () => {
               <h1>Les centres en France</h1>
             </div>
             <div className='theraforma-france-places-container'>
-              <CardsContainer />
+              <FranceCenterList />
             </div>
           </section>
 
