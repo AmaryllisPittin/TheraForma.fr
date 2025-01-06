@@ -55,7 +55,8 @@
     &__h1 {
       color:white;
       font-weight: 600;
-      font-size:25px;
+      font-size:22px;
+      text-align: center;
     }
     &__h2 {
       color:white;
@@ -109,11 +110,15 @@
   }
 }
 
-.verse {
+.lorem-text {
   background-color: #2c473c;
   &__h1 {
     color:white;
     font-style:italic;
+    width:60%;
+    margin-left:20%;
+    margin-right:20%;
+    text-align: center;
   }
 }
 
@@ -148,7 +153,7 @@
 
 }
 
-.vision-theraforma-verses__verse {
+.vision-theraforma-lorem-texts__lorem-text {
     font-size: 20px;
     color: #6cb698;
     text-align: justify;

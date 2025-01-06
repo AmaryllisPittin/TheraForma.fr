@@ -6,8 +6,8 @@ import logo from "../img/logo.png";
 import Aside from "../components/Aside";
 import EventsList from "../components/EventList";
 import VideoDiscover from "../components/VideoDiscover";
-import laNatureDeLhomme from "../img/laNatureDeLhomme.jpg";
-import CléPardon from "../img/CléPardon.jpg";
+import guerisonEmotionnelle from "../img/guerisonemotionnelle.png";
+import CléPyschologie from "../img/clé.png";
 import Footer from "../components/Footer";
 import Network from "../components/Network";
 
@@ -23,8 +23,8 @@ const Index = () => {
       <Aside />
       <Network />
 
-      <section className="verse">
-        <h1 className="verse__h1">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perferendis odio commodi libero numquam vel natus odit alias? Quod eligendi, dolores ab optio iusto explicabo, blanditiis placeat fuga suscipit aliquam itaque?</h1>
+      <section className="lorem-text">
+        <h1 className="lorem-text__h1">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perferendis odio commodi libero numquam vel natus odit alias? Quod eligendi, dolores ab optio iusto explicabo, blanditiis placeat fuga suscipit aliquam itaque?</h1>
       </section>
 
       <EventsList />
@@ -38,7 +38,7 @@ const Index = () => {
         <div className="video-container">
           <VideoDiscover
             videoId="MZP_mPklKn4"
-            coverImage={laNatureDeLhomme}
+            coverImage={guerisonEmotionnelle}
             altText="Couverture de la vidéo - La nature de l'Homme et son besoin de guérison"
           />
           <p className="video-p">La guérison émotionnelle - Pierre Chaume</p>
@@ -47,7 +47,7 @@ const Index = () => {
         <div className="video-container">
           <VideoDiscover
             videoId="iYoEgSd_Ggs"
-            coverImage={CléPardon}
+            coverImage={CléPyschologie}
             altText="Couverture de la vidéo - Le pardon Valérie Chambron"/>
           <p className="video-p">La psychologie en quelques clés - Martine Chaume</p>
         </div>

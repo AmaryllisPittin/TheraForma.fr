@@ -1,5 +1,5 @@
 import React from 'react';
-import eventsData from '../JSON/evenements.json';
+import eventsData from '../JSON/events.json';
 import EventCard from '../components/EventCard';
 
 const EventsList = () => {

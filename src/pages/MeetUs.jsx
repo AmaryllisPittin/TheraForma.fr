@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 import Network from '../components/Network';
 import CardsContainer from '../components/FranceCenterList';
 import franceData from '../JSON/francePlaces.json';
-import internationalData from '../JSON/InternationalPlaces.json';
+import internationalData from '../JSON/internationalPlaces.json';
 
 const MeetUs = () => {
   return (

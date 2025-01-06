@@ -54,13 +54,13 @@
 }
 
 .logo {
-    width:440px;
+    width:640px;
     top: 35%;
 }
 
 .logo-span {
     top: 33%;
-    width: 450px;
+    width: 650px;
     height: 150px;
 }
 
@@ -73,7 +73,6 @@
 
 .aside {
     width:16%;
-    height:310px;
     left:0;
     top:30%;
     border-radius: 0 1px 1px 0;
@@ -123,7 +122,7 @@ input {
 }
 
 
-.verse {
+.lorem-text {
     padding-top: 500px;
     padding-bottom:500px;
 }
@@ -140,9 +139,9 @@ input {
     }
 }
 
-.vision-theraforma-verses {
+.vision-theraforma-lorem-texts {
     width:100%;
-    &__verse {
+    &__lorem-text {
       width:50%;
       padding-bottom:30px;
     }
