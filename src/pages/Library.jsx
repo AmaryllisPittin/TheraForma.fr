@@ -26,9 +26,11 @@ const Library = () => {
                 {booksData.map(book => (
                 <div key={book.id} className="card">
                     <img className='card__img' src={images[book.image.split('/').pop()]} alt={book.title} />
-                    <h2 className='card__h2'>{book.title}</h2>
-                    <h3 className='card__h3'>{book.title2}</h3>
-                    <p className='card__p'>{book.author}</p>
+                    <h2 className='card__h2'>{book.titre}</h2>
+                    <p className='card__p'>{book.auteur}</p>
+                    <p className='card__p'>{book.categorie}</p>
+                    <p className='card__p'>{book.description}</p>
+                    <p className='card__p'>{book.price.montant}{book.price.devise}</p>
                 </div>
                 ))}
             </div>

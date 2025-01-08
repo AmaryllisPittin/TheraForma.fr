@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "image": "labirynthe.png",
         "titre": "Les labyrinthes de l'esprit",
         "auteur": "Clara Sorel",
         "categorie": "Exploration de l'inconscient",
@@ -12,6 +13,7 @@
     },
     {
         "id": 2,
+        "image": "serenite.png",
         "titre": "L'art de la sérénité",
         "auteur": "Victor Harmonie",
         "categorie": "Gestion du stress et pleine conscience",
@@ -23,6 +25,7 @@
     },
     {
         "id": 3,
+        "image": "loupe.png",
         "titre": "L'ego sous la loupe",
         "auteur": "Camille Petit",
         "categorie": "Développement personnel et psychologie sociale",
@@ -34,6 +37,7 @@
     },
     {
         "id": 4,
+        "image": "memoire.png",
         "titre": "La mémoire émotionnelle",
         "auteur": "Sophie Delage",
         "categorie": "Neuropsychologie et émotions",
@@ -45,6 +49,7 @@
     },
     {
         "id": 5,
+        "image": "silence.png",
         "titre": "Les voix du silence",
         "auteur": "Julien Marin",
         "categorie": "Traumatismes et résilience",
@@ -56,6 +61,7 @@
     },
     {
         "id": 6,
+        "image": "perfection.png",
         "titre": "Le paradoxe de la perfection",
         "auteur": "Anaïs Berger",
         "categorie": "Psychologie du perfectionnisme",
@@ -67,6 +73,7 @@
     },
     {
         "id": 7,
+        "image": "polarité.png",
         "titre": "L'équilibre des polarités",
         "auteur": "Pauline Équilibre",
         "categorie": "Psychologie des relations",
@@ -78,6 +85,7 @@
     },
     {
         "id": 8,
+        "image": "bonheur.png",
         "titre": "La science du bonheur",
         "auteur": "Lucas Joyeux",
         "categorie": "Psychologie positive",
@@ -89,6 +97,7 @@
     },
     {
         "id": 9,
+        "image": "peur.png",
         "titre": "Les racines de la peur",
         "auteur": "Claire Audace",
         "categorie": "Psychologie des émotions",
@@ -100,6 +109,7 @@
     },
     {
         "id": 10,
+        "image": "personnalité.png",
         "titre": "Les mythes de la personnalité",
         "auteur": "Nicolas Charpentier",
         "categorie": "Psychologie de la personnalité",
@@ -111,6 +121,7 @@
     },
     {
         "id": 11,
+        "image": "empathie.png",
         "titre": "Les clés de l'empathie",
         "auteur": "Emilie Coeurclair",
         "categorie": "Psychologie sociale",
@@ -122,6 +133,7 @@
     },
     {
         "id": 12,
+        "image": "cerveau.png",
         "titre": "Les zones d'ombre du cerveau",
         "auteur": "Dr. Thomas Noir",
         "categorie": "Neurosciences et comportement",
