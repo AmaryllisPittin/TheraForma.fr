@@ -27,7 +27,7 @@ const Navbar = () => {
             </li>
         </ul>
           <NavLink className="navbar-link" to="/evenements">Evènements</NavLink>
-          <NavLink className="navbar-link" to="/Nos-formations-Explore">Nos formations Thera</NavLink>
+          <NavLink className="navbar-link" to="/Nos-formations-thera">Nos formations Thera</NavLink>
           <NavLink className="navbar-link" to="/nous-retrouver">Nous retrouver</NavLink>
           <NavLink className="navbar-link" to="/programme-2025">Programme 2025</NavLink>
           <NavLink className="navbar-link" to="/inscription">Inscription</NavLink>

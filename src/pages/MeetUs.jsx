@@ -3,7 +3,6 @@ import Navbar from "../components/Navbar";
 import Aside from "../components/Aside";
 import Footer from "../components/Footer";
 import Network from '../components/Network';
-import CardsContainer from '../components/FranceCenterList';
 import franceData from '../JSON/francePlaces.json';
 import internationalData from '../JSON/internationalPlaces.json';
 import FranceCenterList from '../components/FranceCenterList';
