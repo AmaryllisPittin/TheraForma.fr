@@ -7,7 +7,8 @@
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
-.navbar-list {
+.navbar-list,
+.hide-on-mobile {
     list-style-type: none;
   }
   
@@ -378,4 +379,16 @@
 
 .thera__card {
   list-style-type: none;
+}
+
+.dropdown-menu__container {
+  list-style-type:none;
+  background-color: #2c473c;
+}
+
+.dropdown-link {
+  text-decoration: none;
+  color:#fff;
+  margin-bottom:20px;
+  display:flex;
 }

@@ -27,3 +27,17 @@
   .card:hover {
     scale: 1.1;
   }
+
+  .dropdown-link:before, .dropdown-link:after,
+  .download-link:before, .download-link:after {
+    content: '';
+    border-bottom: solid 1px;
+    position: absolute;
+    bottom: 0;
+    width: 0;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+  }
+
+  .download-link:before { left: 0; }
+  .download-link:after { right: 0; }
